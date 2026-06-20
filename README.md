@@ -230,4 +230,4 @@ discord.ban_time
 
 ## Licença
 
-Adicione aqui a licença do projeto, caso queira publicar no GitHub.
+[MIT LICENSE](https://github.com/MGS-BR/nezuko-chan/blob/main/LICENSE)
